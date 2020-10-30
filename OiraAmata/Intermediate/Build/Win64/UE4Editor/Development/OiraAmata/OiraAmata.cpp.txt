@@ -1,0 +1,2 @@
+Z:\Travail\Game dev\OiraAmataProject\OiraAmata\Intermediate\Build\Win64\UE4Editor\Development\OiraAmata\Definitions.OiraAmata.h
+Z:\Travail\Game dev\OiraAmataProject\OiraAmata\Source\OiraAmata\OiraAmata.h

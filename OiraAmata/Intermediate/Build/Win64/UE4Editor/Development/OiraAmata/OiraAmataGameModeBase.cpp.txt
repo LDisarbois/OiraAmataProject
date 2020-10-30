@@ -1,0 +1,7 @@
+Z:\Travail\Game dev\OiraAmataProject\OiraAmata\Intermediate\Build\Win64\UE4Editor\Development\OiraAmata\Definitions.OiraAmata.h
+Z:\Travail\Game dev\OiraAmataProject\OiraAmata\Source\OiraAmata\OiraAmataGameModeBase.h
+Z:\Gaming\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+Z:\Gaming\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+Z:\Gaming\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+Z:\Gaming\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+Z:\Travail\Game dev\OiraAmataProject\OiraAmata\Intermediate\Build\Win64\UE4Editor\Inc\OiraAmata\OiraAmataGameModeBase.generated.h

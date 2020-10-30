@@ -1,0 +1,15 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+
+using UnrealBuildTool;
+using System.Collections.Generic;
+
+public class OiraAmataEditorTarget : TargetRules
+{
+	public OiraAmataEditorTarget( TargetInfo Target) : base(Target)
+	{
+		Type = TargetType.Editor;
+		DefaultBuildSettings = BuildSettingsVersion.V2;
+		ExtraModuleNames.AddRange( new string[] { "OiraAmata" } );
+		ExtraModuleNames.AddRange( new string[] { "SomTemplate_VR" } );
+	}
+}

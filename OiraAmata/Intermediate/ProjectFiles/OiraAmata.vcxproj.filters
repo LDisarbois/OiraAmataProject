@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\OiraAmata.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2134933F-C7A2-4883-A934-BA6FE9ABD7AE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OiraAmata.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\OiraAmataEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{65292645-7A1F-422D-B5C0-0908FD77316E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\OiraAmata">
+      <UniqueIdentifier>{905BA89D-4500-4E77-81FB-E52022AE6948}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OiraAmata\OiraAmata.Build.cs">
+      <Filter>Source\OiraAmata</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\OiraAmata\OiraAmata.cpp">
+      <Filter>Source\OiraAmata</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OiraAmata\OiraAmata.h">
+      <Filter>Source\OiraAmata</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OiraAmata\OiraAmataGameModeBase.cpp">
+      <Filter>Source\OiraAmata</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OiraAmata\OiraAmataGameModeBase.h">
+      <Filter>Source\OiraAmata</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
