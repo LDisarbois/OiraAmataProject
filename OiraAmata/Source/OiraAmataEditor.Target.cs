@@ -10,6 +10,5 @@ public class OiraAmataEditorTarget : TargetRules
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 		ExtraModuleNames.AddRange( new string[] { "OiraAmata" } );
-		ExtraModuleNames.AddRange( new string[] { "SomTemplate_VR" } );
 	}
 }

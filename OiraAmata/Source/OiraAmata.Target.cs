@@ -10,6 +10,5 @@ public class OiraAmataTarget : TargetRules
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 		ExtraModuleNames.AddRange( new string[] { "OiraAmata" } );
-		ExtraModuleNames.AddRange( new string[] { "SomTemplate_VR" } );
 	}
 }

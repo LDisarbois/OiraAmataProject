@@ -1,11 +1,8 @@
 {
 	"SourceFiles": [
 		"Z:\\Travail\\Game dev\\OiraAmataProject\\OiraAmata\\Source\\OiraAmata\\OiraAmata.Build.cs",
-		"Z:\\Travail\\Game dev\\OiraAmataProject\\OiraAmata\\Source\\OiraAmata\\SomTemplate_VR.Build.cs",
 		"Z:\\Travail\\Game dev\\OiraAmataProject\\OiraAmata\\Source\\OiraAmata.Target.cs",
-		"Z:\\Travail\\Game dev\\OiraAmataProject\\OiraAmata\\Source\\OiraAmataEditor.Target.cs",
-		"Z:\\Travail\\Game dev\\OiraAmataProject\\OiraAmata\\Source\\SomTemplate_VR.Target.cs",
-		"Z:\\Travail\\Game dev\\OiraAmataProject\\OiraAmata\\Source\\SomTemplate_VREditor.Target.cs"
+		"Z:\\Travail\\Game dev\\OiraAmataProject\\OiraAmata\\Source\\OiraAmataEditor.Target.cs"
 	],
 	"EngineVersion": "4.25.4"
 }

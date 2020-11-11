@@ -75,7 +75,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{7832B923-EF23-4FE2-91BC-10946751DD17}</ProjectGuid>
+    <ProjectGuid>{1B2069CE-D457-4EB4-87DD-31A99951B5BE}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>OiraAmata</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>

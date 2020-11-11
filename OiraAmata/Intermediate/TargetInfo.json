@@ -9,16 +9,6 @@
 			"Name": "OiraAmataEditor",
 			"Path": "Z:\\Travail\\Game dev\\OiraAmataProject\\OiraAmata\\Source\\OiraAmataEditor.Target.cs",
 			"Type": "Editor"
-		},
-		{
-			"Name": "SomTemplate_VR",
-			"Path": "Z:\\Travail\\Game dev\\OiraAmataProject\\OiraAmata\\Source\\SomTemplate_VR.Target.cs",
-			"Type": "Game"
-		},
-		{
-			"Name": "SomTemplate_VREditor",
-			"Path": "Z:\\Travail\\Game dev\\OiraAmataProject\\OiraAmata\\Source\\SomTemplate_VREditor.Target.cs",
-			"Type": "Editor"
 		}
 	]
 }
