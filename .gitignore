@@ -76,3 +76,7 @@ DerivedDataCache/*
 *.log
 OiraAmata/Saved/Logs/OiraAmata.log
 OiraAmata/Saved/Logs/OiraAmata.log
+
+OiraAmata/Saved/Config/CrashReportClient/UE4CC-Windows-DB95D8024E42688DF7FDAB8CE0E3A1B2/CrashReportClient.ini
+
+OiraAmata/Saved/Logs/
