@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"Z:\\Travail\\Game dev\\OiraAmataProject\\OiraAmata\\Source\\OiraAmata\\OiraAmata.Build.cs",
-		"Z:\\Travail\\Game dev\\OiraAmataProject\\OiraAmata\\Source\\OiraAmata.Target.cs",
-		"Z:\\Travail\\Game dev\\OiraAmataProject\\OiraAmata\\Source\\OiraAmataEditor.Target.cs"
+		"D:\\Ce PC\\Prog\\Unreal\\OiraAmataProject\\OiraAmata\\Source\\OiraAmata\\OiraAmata.Build.cs",
+		"D:\\Ce PC\\Prog\\Unreal\\OiraAmataProject\\OiraAmata\\Source\\OiraAmata.Target.cs",
+		"D:\\Ce PC\\Prog\\Unreal\\OiraAmataProject\\OiraAmata\\Source\\OiraAmataEditor.Target.cs"
 	],
 	"EngineVersion": "4.25.4"
 }

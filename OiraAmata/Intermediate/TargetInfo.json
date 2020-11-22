@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "OiraAmata",
-			"Path": "Z:\\Travail\\Game dev\\OiraAmataProject\\OiraAmata\\Source\\OiraAmata.Target.cs",
+			"Path": "D:\\Ce PC\\Prog\\Unreal\\OiraAmataProject\\OiraAmata\\Source\\OiraAmata.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "OiraAmataEditor",
-			"Path": "Z:\\Travail\\Game dev\\OiraAmataProject\\OiraAmata\\Source\\OiraAmataEditor.Target.cs",
+			"Path": "D:\\Ce PC\\Prog\\Unreal\\OiraAmataProject\\OiraAmata\\Source\\OiraAmataEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
